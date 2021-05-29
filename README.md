@@ -1,13 +1,17 @@
 # Olá  👋, Sou Guilherme Alexander
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Guilherme-alexander)](https://github.com/Guilherme-alexander)![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white&link=https://github.com/Guilherme-alexander)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=guilhermealexanderdsn@gmail.com)](guilhermealexanderdsn@gmail.com)
-<h3>Perfil 👨‍💻 </h3>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Guilherme-alexander)](https://github.com/Guilherme-alexander)![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white&link=https://github.com/Guilherme-alexander)
+<h3>Perfil 👨‍💻 </h3> 
 
+>### Link [Portfólio Perfil](https://guilherme-alexander.github.io/portf-lio-perfil/)
+>
 - 👨‍💻 Front-end.
 - 🔍 Buscando primeira experiência.
-- 👨‍🎓 tecnologias de Front-end.
+- 👨‍🎓 Buscando Sempre mais Conhecimentos.
 - 🌈 Praticado web Designer.
-- 💬 Sobre mim: Aficionado por games🎮, séries de comédia📺 e Programação💻!!
+- 💬 Sobre mim: facionado por games🎮, séries de comédia📺 e Programação💻!!
+
+
 
 <h3>Tecnologias 🌐</h3>
 <div style="display:flex;">
