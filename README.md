@@ -1,28 +1,46 @@
-# Olá  👋, Sou Guilherme Alexander
+## Olá eu Sou Guilherme Alexander 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Guilherme-alexander)](https://github.com/Guilherme-alexander)![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white&link=https://github.com/Guilherme-alexander)
-<h3>Perfil 👨‍💻 </h3> 
+<h3> Perfil 👨‍💻</h3>
 
 >### Link [Portfólio Perfil](https://guilherme-alexander.github.io/portf-lio-perfil/)
->
-- 👨‍💻 Front-end.
-- 🔍 Buscando primeira experiência.
-- 👨‍🎓 Buscando Sempre mais Conhecimentos.
-- 🌈 Praticado web Designer.
-- 💬 Sobre mim: facionado por games🎮, séries de comédia📺 e Programação💻!!
+
+<img align="right" height="150" width="30%" alt="Gui-Goku" src="https://i.pinimg.com/originals/a6/1b/ce/a61bcefba60d75e3e8246972001d4170.gif">
 
 
+- 👨‍💻 desenvolvedor front-end.
+- 🔍 Buscando uma primeira oportunidade.
+- 👨‍🎓 aprendendo javaScript.
+- 🌈 Web Designer.
+- 💬 Sobre mim: 
 
-<h3>Tecnologias 🌐</h3>
-<div style="display:flex;">
-<code><img src="https://img.stackshare.io/service/6727/css.png" alt="CSS 3" width="40" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>
-<code><img src="https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg" alt="jQuery logo" width="40" height="40"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40px" height="40px"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></code>
-<code><img src="https://img.stackshare.io/service/27/sBsvBbjY.png" alt="GitHub" width="40" height="40" ></code>
+## Progresso 🔥
+
+ <div>
+  <a href="https://github.com/Guilherme-alexander" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-alexander&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-alexander&layout=compact&langs_count=7&theme=react"/>
+  </a>
 </div>
-<h3>Progresso 🔥</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-alexander&show_icons=true" alt="Guilherme-alexander" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-alexander&show_icons=true&locale=en&layout=compact" alt="Guilherme-alexander" /></p>
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Gui-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gui-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="Gui-SCSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> 
+  <img align="center" alt="Gui-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="Gui-JQUERY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"> 
+  <img align="center" alt="Gui-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+  <img align="center" alt="Gui-GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
+  
+  <img align="center" alt="Gui-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Gui-FIGMA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</div>
+
+##
+
+<div style="display: inline_block"><br/>
+<a href="https://www.linkedin.com/in/guilherme-alexander-b46959207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/guilhermealexander_dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-EF72AD?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSGKnPRQBbhZstLGhrlLJKnRZmdZXxcDrFSVXzbBKJPcScFrQnBHhTnjKPXGlSWSGMghzdfn" target="_blank"><img src="https://img.shields.io/badge/Gmail-F00?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+![Snake animation](https://github.com/Guilherme-alexander/Guilherme-alexander/blob/output/github-contribution-grid-snake.svg)
