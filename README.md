@@ -9,9 +9,9 @@
 
 - 👨‍💻 desenvolvedor front-end.
 - 🔍 Buscando uma primeira oportunidade.
-- 👨‍🎓 aprendendo javaScript.
-- 🌈 Web Designer.
-- 💬 Sobre mim: 
+- 👨‍🎓 aprendendo cada dia mais.
+- 🌈 Web Designer, designr de pixel art para games.
+- 💬 Sobre mim: Adoro desenhar, jogos de mesa ou videogames, adoro filmes de ação ou comédia ou assistir meus animes, amo programar a cada bug resolvido uma vitória pro meu dia.
 
 ## Progresso 🔥
 
