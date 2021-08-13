@@ -38,9 +38,9 @@
 ##
 
 <div style="display: inline_block"><br/>
-<a href="https://www.linkedin.com/in/guilherme-alexander-b46959207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/guilhermealexander_dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-EF72AD?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSGKnPRQBbhZstLGhrlLJKnRZmdZXxcDrFSVXzbBKJPcScFrQnBHhTnjKPXGlSWSGMghzdfn" target="_blank"><img src="https://img.shields.io/badge/Gmail-F00?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a target="_blank" href="https://www.linkedin.com/in/guilherme-alexander-b46959207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a target="_blank" href="https://www.instagram.com/guilhermealexander_dev/"><img src="https://img.shields.io/badge/Instagram-EF72AD?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a target="_blank" href="https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSGKnPRQBbhZstLGhrlLJKnRZmdZXxcDrFSVXzbBKJPcScFrQnBHhTnjKPXGlSWSGMghzdfn"><img src="https://img.shields.io/badge/Gmail-F00?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ![Snake animation](https://github.com/Guilherme-alexander/Guilherme-alexander/blob/output/github-contribution-grid-snake.svg)
