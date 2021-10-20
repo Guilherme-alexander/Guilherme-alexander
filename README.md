@@ -9,9 +9,9 @@
 
 - 👨‍💻 desenvolvedor front-end.
 - 🔍 Buscando uma primeira oportunidade.
-- 👨‍🎓 aprendendo cada dia mais.
+- 👨‍🎓 HTML, CSS, JavaScript, JQuery.
 - 🌈 Web Designer, designr de pixel art para games.
-- 💬 Sobre mim: Adoro desenhar, jogos de mesa ou videogames, adoro filmes de ação ou comédia ou assistir meus animes, amo programar a cada bug resolvido uma vitória pro meu dia.
+- 💬 Sobre mim: Adoro desenhar, jogos de mesa ou videogames, adoro filmes de ação ou comédia ou assistir meus animes, amo programar.
 
 ## Progresso 🔥
 
@@ -25,7 +25,6 @@
 <div style="display: inline_block"><br/>
   <img align="center" alt="Gui-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="Gui-SCSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> 
   <img align="center" alt="Gui-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Gui-JQUERY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"> 
   <img align="center" alt="Gui-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
