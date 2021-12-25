@@ -2,7 +2,6 @@
 
 <h3> Perfil 👨‍💻</h3>
 
->### Link [Portfólio Perfil](https://guilherme-alexander.github.io/portf-lio-perfil/)
 
 <img align="right" height="150" width="30%" alt="Gui-Goku" src="https://i.pinimg.com/originals/a6/1b/ce/a61bcefba60d75e3e8246972001d4170.gif">
 
