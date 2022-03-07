@@ -68,7 +68,7 @@
  <a href="https://github.com/Guilherme-alexander/Page-Login-Front-End">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guilherme-alexander&repo=Page-Login-Front-End&layout=compact&langs_count=7&theme=react" />
  </a>
-  <a href="https://github.com/Guilherme-alexander/Page-Login-Front-End">
+  <a href="https://github.com/Guilherme-alexander/customized-music-menu-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guilherme-alexander&repo=customized-music-menu-&layout=compact&langs_count=7&theme=react" />
  </a>
 
