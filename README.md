@@ -8,11 +8,10 @@
 <img align="right" width="25%" alt="Gui-Goku" src="https://github.githubassets.com/images/mona-loading-dark.gif">
 
 
-- 👨‍💻 __Desenvolvedor__ | frontend | backend | automação | Cyber Security
+- 👨‍💻 __Desenvolvedor__ | frontend | backend | automação | Cyber Security | Game Dev
 - 🔍 __Buscando oportunidades.__
-- 👨‍🎓 __Curso:__ Curso em Vídeo, Dank Code, Udamy, Técnicas de Invasão, Solid, Hackers do Bem
-- 🌈 __Web Designer & Designer Gráfico.__
-- 💬 __Sobre mim:__ "Amo Tecnologia e sou autodidata estou na busca me torna Full-stack & Blue Team.
+- 👨‍🎓 __Curso:__ Udamy, Curso em Vídeo, Dank Code, Hackers do Bem, Técnicas de Invasão, Solid
+- 💬 __Sobre mim:__ "Amor a Tecnologia, autodidata e buscando novos desafios.
 
 <br/>
 
@@ -39,7 +38,6 @@
   <img align="center" alt="Gui-ELECTRON" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" />
   <img align="center" alt="Gui-JQUERY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="Gui-PYTHON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Gui-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
   <img align="center" alt="Gui-GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Gui-MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
@@ -86,14 +84,19 @@
 <br/>
 <br/>
 
->### Estou Aprendendo 🎓
+>## Game Dev 🎮
 <div style="display: inline_block">
-  <img align="center" alt="Gui-REACT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img align="center" alt="Gui-LUA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+ <img align="center" alt="Gui-Love2s" height="40" width="40" src="https://www.love2d.org/favicon-32x32.png">
+ <img align="center" alt="Gui-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ <img align="center" alt="Gui-LUA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
+ 
+<!--   <img align="center" alt="Gui-REACT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Gui-FIREBASE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img align="center" alt="Gui-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Gui-SASS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Gui-WORDPRESS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-  <img align="center" alt="Gui-BOOTSTRAP" height="50" width="50" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" />
+  <img align="center" alt="Gui-BOOTSTRAP" height="50" width="50" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" /> -->
 </div>
 
  <br/>
