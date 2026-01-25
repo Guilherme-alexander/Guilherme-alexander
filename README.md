@@ -1,18 +1,21 @@
-<!--<img align="center" alt="Gui-Goku" src="https://github.com/Guilherme-alexander/Image-Guilherme-Alexander/blob/main/banner-my-readme.png">-->
+# 👋 Olá, eu sou Guilherme Alexander
 
-# Olá, Sou Guilherme Alexander 👋
+### 👨‍💻 Perfil
 
-><h3> Perfil 👨‍💻</h3>
+<img align="right" width="25%" alt="Gui-Goku" src="https://github.githubassets.com/images/mona-loading-dark.gif">
 
+### 🚀 Desenvolvedor Full Stack
+Frontend • Backend • Automação • Cyber Security • Game Dev
 
+### 🔍 Em busca de oportunidades para criar soluções eficientes, seguras e escaláveis.
 
-<img align="right" width="25%" autoplay="True" alt="Gui-Goku" src="https://github.githubassets.com/images/mona-loading-dark.gif">
+### 🛠️ Formação contínua (autodidata)
+Udemy • Curso em Vídeo • Danki Code • Hackers do Bem • Técnicas de Invasão • SOLID
 
+### 💬 Sobre mim
+Apaixonado por tecnologia, movido por desafios e orientado a resultados. Não preciso saber todas as respostas de imediato — mas sei como encontrá-las. Meu foco é compreender sistemas a fundo, do código à segurança, assumindo responsabilidade pelo que construo e entrego.
 
-- 👨‍💻 __Desenvolvedor__ | frontend | backend | automação | Cyber Security | Game Dev
-- 🔍 __Buscando oportunidades.__
-- 👨‍🎓 __Curso:__ Udamy, Curso em Vídeo, Dank Code, Hackers do Bem, Técnicas de Invasão, Solid
-- 💬 __Sobre mim:__ "Amor a Tecnologia, autodidata e buscando novos desafios.
+⭐ Para mim, tecnologia é compromisso: pensar com clareza, executar com disciplina e sustentar aquilo que foi prometido.
 
 <br/>
 
@@ -38,7 +41,6 @@
   <img align="center" alt="Gui-ELECTRON" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" />
   <img align="center" alt="Gui-JQUERY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="Gui-PYTHON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <!-- <img align="center" alt="Gui-ASSEMBLY" height="40" width="40" src="" /> -->
   
   <img align="center" alt="Gui-GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Gui-APACHE" height="40" width="40" src="https://logodownload.org/wp-content/uploads/2018/03/apache-logo-3.png" />
