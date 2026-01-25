@@ -5,6 +5,7 @@
 ><h3> Perfil 👨‍💻</h3>
 
 
+
 <img align="right" width="25%" autoplay="True" alt="Gui-Goku" src="https://github.githubassets.com/images/mona-loading-dark.gif">
 
 
@@ -15,14 +16,12 @@
 
 <br/>
 
-
-
 >## Progresso 🔥
 
  <div>
   <a href="https://github.com/Guilherme-alexander" target="_blank"> 
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-alexander&show_icons=true&layout=compact&langs_count=7&theme=react"/>
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-alexander&layout=compact&langs_count=7&theme=react"/>    
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-alexander&show_icons=true&layout=compact&langs_count=7&theme=react"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-alexander&layout=compact&langs_count=7&theme=react"/>    
   </a>
 </div>
 
@@ -117,5 +116,6 @@
 <a target="_blank" href="https://www.instagram.com/guilhermealexander_dev/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a target="_blank" href="https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSGKnPRQBbhZstLGhrlLJKnRZmdZXxcDrFSVXzbBKJPcScFrQnBHhTnjKPXGlSWSGMghzdfn"><img src="https://img.shields.io/badge/Gmail-F00?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
 
 ![Snake animation](https://github.com/Guilherme-alexander/Guilherme-alexander/blob/output/github-contribution-grid-snake.svg)
