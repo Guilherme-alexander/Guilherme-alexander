@@ -5,7 +5,7 @@
 ><h3> Perfil 👨‍💻</h3>
 
 
-<img align="right" width="25%" alt="Gui-Goku" src="https://github.githubassets.com/images/mona-loading-dark.gif">
+<img align="right" width="25%" autoplay="True" alt="Gui-Goku" src="https://github.githubassets.com/images/mona-loading-dark.gif">
 
 
 - 👨‍💻 __Desenvolvedor__ | frontend | backend | automação | Cyber Security | Game Dev
@@ -21,8 +21,8 @@
 
  <div>
   <a href="https://github.com/Guilherme-alexander" target="_blank"> 
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-alexander&show_icons=true&layout=compact&langs_count=7&theme=react"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-alexander&layout=compact&langs_count=7&theme=react"/>    
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-alexander&show_icons=true&layout=compact&langs_count=7&theme=react"/>
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-alexander&layout=compact&langs_count=7&theme=react"/>    
   </a>
 </div>
 
