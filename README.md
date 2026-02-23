@@ -19,37 +19,28 @@ Apaixonado por tecnologia, movido por desafios e orientado a resultados. Não pr
 
 <br/>
 
->## Progresso 🔥
-
- <div>
-  <a href="https://github.com/Guilherme-alexander" target="_blank"> 
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-alexander&show_icons=true&layout=compact&langs_count=7&theme=react"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-alexander&layout=compact&langs_count=7&theme=react"/>    
-  </a>
-</div>
-
-<br/>
-<br/>
-
 >## Ferramentas & Tecnologias ⭐
 <div style="display: inline_block">
-  <img align="center" alt="Gui-HTML" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="Gui-CSS" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Gui-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Gui-NODE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Gui-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  <img align="center" alt="Gui-ELECTRON" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" />
-  <img align="center" alt="Gui-JQUERY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+  <img align="center" alt="Gui-HTML" height="45" width="40" src="https://skillicons.dev/icons?i=html" />
+  <img align="center" alt="Gui-CSS" height="45" width="40" src="https://skillicons.dev/icons?i=css" />
+  <img align="center" alt="Gui-JS" height="40" width="40" src="https://skillicons.dev/icons?i=js" />
+  <img align="center" alt="Gui-NODE" height="50" width="50" src="https://skillicons.dev/icons?i=nodejs" />
+  <img align="center" alt="Gui-NPM" height="50" width="50" src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
+  <img align="center" alt="Gui-PHP" height="50" width="50" src="https://skillicons.dev/icons?i=php" />
+  <img align="center" alt="Gui-ELECTRON" height="40" width="40" src="https://skillicons.dev/icons?i=electron" />
+  <img align="center" alt="Gui-JQUERY" height="40" width="40" src="https://skillicons.dev/icons?i=jquery" />
   <img align="center" alt="Gui-PYTHON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
   <img align="center" alt="Gui-GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Gui-APACHE" height="40" width="40" src="https://logodownload.org/wp-content/uploads/2018/03/apache-logo-3.png" />
-  <img align="center" alt="Gui-MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="center" alt="Gui-SQLITE" height="35" width="35" src="https://skillicons.dev/icons?i=sqlite" />
+  <img align="center" alt="Gui-MYSQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   
 <br/>
 <br/>
-  <img align="center" alt="Gui-SUBLIME" height="40" width="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/sublime-text-icon.png">
+  <img align="center" alt="Gui-SUBLIME" height="40" width="40" src="https://www.sublimehq.com/images/sublime_text.png">
   <img align="center" alt="Gui-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Gui-NOTPED++" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg">
   <img align="center" alt="Gui-FIGMA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Gui-CANVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>
@@ -89,11 +80,13 @@ Apaixonado por tecnologia, movido por desafios e orientado a resultados. Não pr
 
 >## Game Dev 🎮
 <div style="display: inline_block">
+ <img align="center" alt="Gui-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  <img align="center" alt="Gui-LUA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
  <img align="center" alt="Gui-Love2s" height="40" width="40" src="https://www.love2d.org/favicon-32x32.png">
- <img align="center" alt="Gui-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  <img align="center" alt="Gui-LUA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
  <img align="center" alt="Gui-GODOT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
+ <img align="center" alt="Gui-LIBRESPRITE" height="40" width="40" src="https://libresprite.github.io/assets/ase.ico">
+ <img align="center" alt="Gui-PAINT.NET" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/pt/e/e8/Logo_Paint.NET-pt.PNG">
  
 <!--   <img align="center" alt="Gui-REACT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Gui-FIREBASE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
