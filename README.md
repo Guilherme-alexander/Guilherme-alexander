@@ -20,73 +20,72 @@ Apaixonado por tecnologia, movido por desafios e orientado a resultados. Não pr
 <br/>
 
 >## Ferramentas & Tecnologias ⭐
-<div style="display: inline_block">
-  <img align="center" alt="Gui-HTML" height="45" width="40" src="https://skillicons.dev/icons?i=html" />
-  <img align="center" alt="Gui-CSS" height="45" width="40" src="https://skillicons.dev/icons?i=css" />
-  <img align="center" alt="Gui-JS" height="40" width="40" src="https://skillicons.dev/icons?i=js" />
-  <img align="center" alt="Gui-NODE" height="50" width="50" src="https://skillicons.dev/icons?i=nodejs" />
-  <img align="center" alt="Gui-NPM" height="50" width="50" src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
-  <img align="center" alt="Gui-PHP" height="50" width="50" src="https://skillicons.dev/icons?i=php" />
-  <img align="center" alt="Gui-ELECTRON" height="40" width="40" src="https://skillicons.dev/icons?i=electron" />
-  <img align="center" alt="Gui-JQUERY" height="40" width="40" src="https://skillicons.dev/icons?i=jquery" />
-  <img align="center" alt="Gui-PYTHON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<div style="text-align: center;">
+  <img alt="Gui-HTML" height="40" src="https://skillicons.dev/icons?i=html" />
+  <img alt="Gui-CSS" height="40" src="https://skillicons.dev/icons?i=css" />
+  <img alt="Gui-JS" height="40" src="https://skillicons.dev/icons?i=js" />
+  <img alt="Gui-NODE" height="50" src="https://skillicons.dev/icons?i=nodejs" />
+  <img alt="Gui-NPM" height="50" src="https://i.postimg.cc/zBfCqdPJ/npm.png"/>
+  <img alt="Gui-PHP" height="50" src="https://skillicons.dev/icons?i=php" />
+  <img alt="Gui-ELECTRON" height="40" src="https://skillicons.dev/icons?i=electron" />
+  <img alt="Gui-JQUERY" height="40" src="https://skillicons.dev/icons?i=jquery" />
+  <img alt="Gui-PYTHON" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
-  <img align="center" alt="Gui-GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Gui-APACHE" height="40" width="40" src="https://logodownload.org/wp-content/uploads/2018/03/apache-logo-3.png" />
-  <img align="center" alt="Gui-SQLITE" height="35" width="35" src="https://skillicons.dev/icons?i=sqlite" />
-  <img align="center" alt="Gui-MYSQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-  
-<br/>
-<br/>
-  <img align="center" alt="Gui-SUBLIME" height="40" width="40" src="https://www.sublimehq.com/images/sublime_text.png">
-  <img align="center" alt="Gui-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Gui-NOTPED++" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg">
-  <img align="center" alt="Gui-FIGMA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Gui-CANVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img alt="Gui-GIT" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Gui-APACHE" height="50" src="https://logodownload.org/wp-content/uploads/2018/03/apache-logo-3.png" />
+  <img alt="Gui-SQLITE" height="40" src="https://skillicons.dev/icons?i=sqlite" />
+  <img alt="Gui-MYSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+
+  <br/>
+  <br/>
+
+  <img alt="Gui-SUBLIME" height="40" src="https://www.sublimehq.com/images/sublime_text.png">
+  <img alt="Gui-VSCODE" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img alt="Gui-NOTPED++" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg">
+  <img alt="Gui-FIGMA" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img alt="Gui-CANVA" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>
 
-<br/>
 <br/>
 
 >## Ciber Segurança 👨‍💻
-<div style="display: inline_block"> 
- <img align="center" alt="Gui-LINUX" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
- <img align="center" alt="Gui-DEBIAN" height="50" width="50" src="https://www.debian.org/Pics/openlogo-50.png" />
- <!-- <img align="center" alt="Gui-KALI" height="50" width="50" src="https://www.kali.org/images/kali-dragon-icon.svg" /> -->
- <img align="center" alt="Gui-BASH" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" />
- <img align="center" alt="Gui-ARDUINO" height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
- <img align="center" alt="Gui-NMAP" height="50" width="50" src="https://nmap.org/images/nmap-logo-256x256.png" />
- <img align="center" alt="Gui-HYDRA" height="50" width="50" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" />
- <img align="center" alt="Gui-BURPSUITE" height="40" width="40" src="https://miro.medium.com/v2/resize:fit:710/0*FvyoEolATs1TVCy9.png" />
- <img align="center" alt="Gui-SQLMAP" height="50" width="50" src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" />
- <img align="center" alt="Gui-METASPLOIT" height="40" width="30" src="https://cdn.inspireuplift.com/uploads/images/seller_products/30681/1702934471_Metasploit.png" />
- <img align="center" alt="Gui-GOBUSTER" height="50" width="50" src="https://gitlab.com/uploads/-/system/project/avatar/11903725/kali-gobuster.png" />
- <img align="center" alt="Gui-WIRESHARK" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" />
- <img align="center" alt="Gui-AIRCRACK-NG" height="50" width="50" src="https://gitlab.com/uploads/-/system/project/avatar/11903453/kali-aircrack-ng.png" />
- <img align="center" alt="Gui-GHRIDRA" height="50" width="50" src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" />
- <img align="center" alt="Gui-MIMIKATZ" height="50" width="50" src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" />
- <img align="center" alt="Gui-OWASP-ZAP" height="40" width="40" src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" />
- <img align="center" alt="Gui-NUCLEI" height="50" width="50" src="https://www.kali.org/tools/nuclei/images/nuclei-logo.svg" />
- <img align="center" alt="Gui-NETCAT" height="40" width="40" src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" />
- <img align="center" alt="Gui-MALTEGO" height="50" width="50" src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" />
- <img align="center" alt="Gui-JOHN" height="50" width="50" src="https://www.kali.org/tools/john/images/john-logo.svg" />
- <img align="center" alt="Gui-NTCORE or Gui-CFF-EXPLORER" height="40" width="40" src="https://ntcore.com/wp-content/uploads/2018/07/cropped-ntcore_icon-2-192x192.png" />
- <br/>
- 
+<div style="text-align: center;">
+ <img alt="Gui-LINUX" height="40" src="https://skillicons.dev/icons?i=linux" />
+ <img alt="Gui-DEBIAN" height="40" src="https://www.debian.org/Pics/openlogo-50.png" />
+ <!-- <img alt="Gui-KALI" height="40" src="https://www.kali.org/images/kali-dragon-icon.svg" /> -->
+ <img alt="Gui-BASH" height="40" src="https://skillicons.dev/icons?i=bash" />
+ <img alt="Gui-ARDUINO" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
+ <img alt="Gui-NMAP" height="40" src="https://nmap.org/images/nmap-logo-256x256.png" />
+ <img alt="Gui-HYDRA" height="40" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" />
+ <img alt="Gui-BURPSUITE" height="40" src="https://miro.medium.com/v2/resize:fit:710/0*FvyoEolATs1TVCy9.png" />
+ <img alt="Gui-SQLMAP" height="40" src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" />
+ <img alt="Gui-METASPLOIT" height="40" src="https://cdn.inspireuplift.com/uploads/images/seller_products/30681/1702934471_Metasploit.png" />
+ <img alt="Gui-GOBUSTER" height="40" src="https://gitlab.com/uploads/-/system/project/avatar/11903725/kali-gobuster.png" />
+ <img alt="Gui-WIRESHARK" height="40" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" />
+ <img alt="Gui-AIRCRACK-NG" height="40" src="https://gitlab.com/uploads/-/system/project/avatar/11903453/kali-aircrack-ng.png" />
+ <img alt="Gui-GHRIDRA" height="40" src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" />
+ <img alt="Gui-MIMIKATZ" height="40" src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" />
+ <img alt="Gui-OWASP-ZAP" height="40" src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" />
+ <img alt="Gui-NUCLEI" height="40" src="https://www.kali.org/tools/nuclei/images/nuclei-logo.svg" />
+ <img alt="Gui-NETCAT" height="40" src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" />
+ <img alt="Gui-MALTEGO" height="40" src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" />
+ <img alt="Gui-JOHN" height="40" src="https://www.kali.org/tools/john/images/john-logo.svg" />
+ <img alt="Gui-NTCORE or Gui-CFF-EXPLORER" height="40" src="https://ntcore.com/wp-content/uploads/2018/07/cropped-ntcore_icon-2-192x192.png" />
 </div>
 
-<br/>
 <br/>
 
 >## Game Dev 🎮
 <div style="display: inline_block">
- <img align="center" alt="Gui-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
- <img align="center" alt="Gui-LUA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
- <img align="center" alt="Gui-Love2s" height="40" width="40" src="https://www.love2d.org/favicon-32x32.png">
- <img align="center" alt="Gui-LUA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
- <img align="center" alt="Gui-GODOT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
- <img align="center" alt="Gui-LIBRESPRITE" height="40" width="40" src="https://libresprite.github.io/assets/ase.ico">
- <img align="center" alt="Gui-PAINT.NET" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/pt/e/e8/Logo_Paint.NET-pt.PNG">
+ <img alt="Gui-PYTHON" height="40" src="https://skillicons.dev/icons?i=python" />
+ <img alt="Gui-JAVA" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ <img alt="Gui-IDE-ECLIPSE" height="40" src="https://skillicons.dev/icons?i=eclipse" />
+ <img alt="Gui-LUA" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+ <img alt="Gui-Love2s" height="40" src="https://www.love2d.org/favicon-32x32.png">
+ <img alt="Gui-GODOT" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
+ <img alt="Gui-LIBRESPRITE" height="40" src="https://libresprite.github.io/assets/ase.ico">
+ <img alt="Gui-PAINT.NET" height="40" src="https://upload.wikimedia.org/wikipedia/pt/e/e8/Logo_Paint.NET-pt.PNG">
  
 <!--   <img align="center" alt="Gui-REACT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Gui-FIREBASE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
@@ -97,8 +96,7 @@ Apaixonado por tecnologia, movido por desafios e orientado a resultados. Não pr
 </div>
 
  <br/>
- <br/>
-
+ 
  <!-- <a href="https://github.com/Guilherme-alexander/Page-Login-Front-End">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guilherme-alexander&repo=Page-Login-Front-End&layout=compact&langs_count=7&theme=react" />
  </a>
