@@ -111,4 +111,9 @@ Apaixonado por tecnologia, movido por desafios e orientado a resultados. Não pr
 </div>
 
 
-![Snake animation](https://github.com/Guilherme-alexander/Guilherme-alexander/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Guilherme-alexander/Guilherme-alexander/blob/output/github-contribution-grid-snake.svg) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-alexander/Guilherme-alexander/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-alexander/Guilherme-alexander/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Guilherme-alexander/Guilherme-alexander/output/github-contribution-grid-snake.svg" />
+</picture>
