@@ -1,24 +1,32 @@
-  
-name: Generate Datas
+name: Generate Snake Animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"   # Executa às 00:00 e 12:00 UTC todos os dias
+  workflow_dispatch:          # Permite execução manual (botão "Run workflow")
+  push:
+    branches:
+      - main                  # Opcional: atualiza também quando você der push na main
 
 jobs:
-  build:
-    name: Jobs to update datas
+  generate:
+    permissions:
+      contents: write         # 👈 Essencial para salvar a imagem na branch output
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        id: snake
         with:
           github_user_name: Guilherme-alexander
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
