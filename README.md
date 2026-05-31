@@ -23,6 +23,7 @@ Apaixonado por tecnologia, movido por desafios e orientado a resultados. Não pr
 
 <div style="text-align: center;">
   <img alt="Gui-C" height="40" src="https://skillicons.dev/icons?i=c" />
+  <img alt="Gui-C++" height="40" src="https://skillicons.dev/icons?i=cpp" />
   <img alt="Gui-HTML" height="40" src="https://skillicons.dev/icons?i=html" />
   <img alt="Gui-CSS" height="40" src="https://skillicons.dev/icons?i=css" />
   <img alt="Gui-JS" height="40" src="https://skillicons.dev/icons?i=js" />
