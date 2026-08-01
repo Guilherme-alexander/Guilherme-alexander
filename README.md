@@ -24,17 +24,17 @@ movido por desafios e orientado a resultados. Não preciso saber todas as respos
   <img alt="Gui-HTML" height="35" src="https://skillicons.dev/icons?i=html" />
   <img alt="Gui-CSS" height="35" src="https://skillicons.dev/icons?i=css" />
   <img alt="Gui-JS" height="35" src="https://skillicons.dev/icons?i=js" />
-  <img alt="Gui-NODE" height="35" src="https://skillicons.dev/icons?i=nodejs" />
-  <img alt="Gui-NPM" height="35" src="https://i.postimg.cc/zBfCqdPJ/npm.png"/>
-  <img alt="Gui-PHP" height="35" src="https://skillicons.dev/icons?i=php" />
+  <img alt="Gui-NODE-JS" height="40" src="https://skillicons.dev/icons?i=nodejs" />
+  <img alt="Gui-NPM" height="40" src="https://i.postimg.cc/zBfCqdPJ/npm.png"/>
+  <img alt="Gui-PHP" height="40" src="https://skillicons.dev/icons?i=php" />
   <img alt="Gui-ELECTRON" height="35" src="https://skillicons.dev/icons?i=electron" />
   <img alt="Gui-JQUERY" height="35" src="https://skillicons.dev/icons?i=jquery" />
   <img alt="Gui-PYTHON" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
   <img alt="Gui-GIT" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Gui-APACHE" height="35" src="https://logodownload.org/wp-content/uploads/2018/03/apache-logo-3.png" />
-  <img alt="Gui-SQLITE" height="35" src="https://skillicons.dev/icons?i=sqlite" />
-  <img alt="Gui-MYSQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <img alt="Gui-SQLITE" height="30" src="https://skillicons.dev/icons?i=sqlite" />
+  <img alt="Gui-MYSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 
   <br/>
   <br/>
